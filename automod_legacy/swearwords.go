@@ -5,7 +5,7 @@ var BuiltinSwearWords = map[string]bool{
 	"anal":        true,
 	"anus":        true,
 	"arse":        true,
-	"ass":         true,
+	
 	"b1tch":       true,
 	"ballsack":    true,
 	"bastard":     true,
@@ -21,13 +21,13 @@ var BuiltinSwearWords = map[string]bool{
 	"clitoris":    true,
 	"cock":        true,
 	"cum":         true,
-	"cunt":        true,
+	
 	"dick":        true,
 	"dildo":       true,
 	"dyke":        true,
 	"erection":    true,
-	"fag":         true,
-	"faggot":      true,
+	"
+	,
 	"feck":        true,
 	"fellate":     true,
 	"fellatio":    true,
